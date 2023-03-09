@@ -17,6 +17,7 @@ Number | Description | Online Notebook
 14 | One dimensional filtration modelling (additional experiments) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mualal/notebooks-source/blob/master/14_1D_filtration_experiments.ipynb)
 15 | Experiments with Python libs for optimization problems | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mualal/notebooks-source/blob/master/15_optimization_experiments.ipynb)
 16 | Python tiny notes | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mualal/notebooks-source/blob/master/16_python_tiny_notes.ipynb)
+17 | LeetCode problems notes | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mualal/notebooks-source/blob/master/17_leetcode_problems.ipynb)
 
 
 You can run the notebooks on Google Colab by following the links.
