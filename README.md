@@ -18,6 +18,9 @@ Number | Description | Online Notebook
 15 | Experiments with Python libs for optimization problems | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mualal/notebooks-source/blob/master/15_optimization_experiments.ipynb)
 16 | Python tiny notes | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mualal/notebooks-source/blob/master/16_python_tiny_notes.ipynb)
 17 | LeetCode problems notes | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mualal/notebooks-source/blob/master/17_leetcode_problems.ipynb)
+18 | R2 Score | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mualal/notebooks-source/blob/master/18_r2_experiments.ipynb)
+19 | Read Parquet | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mualal/notebooks-source/blob/master/19_parquet.ipynb)
+20 | Water-induced fractures growth | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mualal/notebooks-source/blob/master/20_water_induced_fractures_growth.ipynb)
 
 
 You can run the notebooks on Google Colab by following the links.
