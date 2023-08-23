@@ -22,6 +22,7 @@ Number | Description | Online Notebook
 19 | Read Parquet | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mualal/notebooks-source/blob/master/19_parquet.ipynb)
 20 | Water-induced fractures growth | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mualal/notebooks-source/blob/master/20_water_induced_fractures_growth.ipynb)
 21 | Whisper | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mualal/notebooks-source/blob/master/21_whisper.ipynb)
+22 | Deep Learning Notes | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mualal/notebooks-source/blob/master/22_deep_learning.ipynb)
 
 
 You can run the notebooks on Google Colab by following the links.
