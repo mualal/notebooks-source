@@ -21,8 +21,12 @@ Number | Description | Online Notebook
 18 | R2 Score | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mualal/notebooks-source/blob/master/18_r2_experiments.ipynb)
 19 | Read Parquet | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mualal/notebooks-source/blob/master/19_parquet.ipynb)
 20 | Water-induced fractures growth | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mualal/notebooks-source/blob/master/20_water_induced_fractures_growth.ipynb)
-21 | Whisper | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mualal/notebooks-source/blob/master/21_whisper.ipynb)
+21 | Whisper ASR | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mualal/notebooks-source/blob/master/21_whisper.ipynb)
 22 | Deep Learning Notes | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mualal/notebooks-source/blob/master/22_deep_learning.ipynb)
+23 | Faster Whisper ASR | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mualal/notebooks-source/blob/master/23_faster_whisper.ipynb)
+24 | Chat Messages Detection | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mualal/notebooks-source/blob/master/24_messages_detection.ipynb)
+25 | Hugging Face Whisper ASR | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mualal/notebooks-source/blob/master/25_hf_whisper.ipynb)
+26 | Whisper ASR implementations comparison on audio with noise and echo | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mualal/notebooks-source/blob/master/26_audio_with_noise_and_echo.ipynb)
 
 
 You can run the notebooks on Google Colab by following the links.
