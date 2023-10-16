@@ -27,6 +27,7 @@ Number | Description | Online Notebook
 24 | Chat Messages Detection | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mualal/notebooks-source/blob/master/24_messages_detection.ipynb)
 25 | Hugging Face Whisper ASR | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mualal/notebooks-source/blob/master/25_hf_whisper.ipynb)
 26 | Whisper ASR implementations comparison on audio with noise and echo | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mualal/notebooks-source/blob/master/26_audio_with_noise_and_echo.ipynb)
+27 | Speech Synthesis with Tacotron2 and HiFiGAN | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mualal/notebooks-source/blob/master/27_speech_synthesis.ipynb)
 
 
 You can run the notebooks on Google Colab by following the links.
