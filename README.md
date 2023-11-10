@@ -28,6 +28,8 @@ Number | Description | Online Notebook
 25 | Hugging Face Whisper ASR | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mualal/notebooks-source/blob/master/25_hf_whisper.ipynb)
 26 | Whisper ASR implementations comparison on audio with noise and echo | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mualal/notebooks-source/blob/master/26_audio_with_noise_and_echo.ipynb)
 27 | Speech Synthesis with Tacotron2 and HiFiGAN | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mualal/notebooks-source/blob/master/27_speech_synthesis.ipynb)
+28 | Propagation of wave packets through the chain-chain interface | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mualal/notebooks-source/blob/master/28_1D_chain-chain_interface.ipynb)
+29 | Propagation of wave packets through the lattice-lattice interface | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mualal/notebooks-source/blob/master/29_lattice-lattice_interface.ipynb)
 
 
 You can run the notebooks on Google Colab by following the links.
