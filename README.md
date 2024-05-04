@@ -31,6 +31,7 @@ Number | Description | Online Notebook
 28 | Propagation of wave packets through the chain-chain interface | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mualal/notebooks-source/blob/master/28_1D_chain-chain_interface.ipynb)
 29 | Propagation of wave packets through the lattice-lattice interface | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mualal/notebooks-source/blob/master/29_lattice-lattice_interface.ipynb)
 30 | Numba Notes | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mualal/notebooks-source/blob/master/30_numba.ipynb)
+31 | SQL Practice | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mualal/notebooks-source/blob/master/31_sql.ipynb)
 
 
 You can run the notebooks on Google Colab by following the links.
